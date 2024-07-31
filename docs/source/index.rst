@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+In999 – in999.best - Cashback on every bet you make
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`in999 <https://in999.best/>`_ is one of the best colour prediction apps. In the first place, you have to get registered with the in999 website, and as soon as that the in999 website will start providing you with a lot of bonuses.These bonuses include the Wingo bonus, Aviator bonus, Winning Streak bonus, Monthly Promotion bonus, Loss bonus, Register bonus, and many more.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Contact Info: 
 
-.. note::
+Address: andheri, Mumbai, Maharashtra 
 
-   This project is under active development.
+Phone:  +91 77150 44564
 
-Contents
---------
+Email: in999best@gmail.com
 
-.. toctree::
+Website: https://in999.best/
 
-   usage
-   api
+#in999 #in999register #in999login #in999app
